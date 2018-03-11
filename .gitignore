@@ -5,3 +5,4 @@ build
 .idea
 node_modules
 documentation
+package-lock.json
